@@ -5,6 +5,7 @@ import axios from "axios"
 import Footer from "../components/footer"
 
 
+
 function Home() {
     const [Data ,SetData]=useState([])
 
